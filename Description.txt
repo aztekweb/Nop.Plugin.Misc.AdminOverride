@@ -1,0 +1,9 @@
+﻿Group: Misc
+FriendlyName: Admin Override
+SystemName: Misc.AdminOverride
+Version: 1.00
+SupportedVersions: 3.90
+Author: aztekweb
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.AdminOverride.dll
+Description: This plugin allows you to override actions, views, and partial views in the admin
