@@ -8,3 +8,6 @@ There is a demo view for Product Create/Edit (/Admin/Product/Create) in \Adminis
 
 ## Links ##
 [https://github.com/aztekweb/Nop.Plugin.Misc.AdminOverride](https://github.com/aztekweb/Nop.Plugin.Misc.AdminOverride)
+
+[http://alexwolfthoughts.com/overriding-nopcommerce-admin-views-and-partial-views/](http://alexwolfthoughts.com/overriding-nopcommerce-admin-views-and-partial-views/)
+[https://www.nopcommerce.com/boards/t/48800/use-plugin-partial-view.aspx](https://www.nopcommerce.com/boards/t/48800/use-plugin-partial-view.aspx)
